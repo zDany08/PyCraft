@@ -8,3 +8,5 @@ where you can place and break blocks.
 - **Switch Blocks:** Left Shift
 - **Place Blocks:** Mouse Right Button
 - **Break Blocks:** Mouse Left Button
+
+![Screenshot](https://imgur.com/Ad0ozjf.png)
